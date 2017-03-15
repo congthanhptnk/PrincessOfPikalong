@@ -9,6 +9,7 @@ learning and reference purpose ONLY.
 2. Installation guide: 
 	- Unzip the PIKALONG.rar file.
 	- Run the PrincessOfPIKALONG.exe file.
+	- Choose your resolution (1600x900 recommended)
 
 3. Game control:
 	- Move up: W, up arrow.
